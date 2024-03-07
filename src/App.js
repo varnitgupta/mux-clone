@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      mux clone
+      mux clone -- checking config for ssh - push test
     </div>
   );
 }
