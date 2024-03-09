@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './components/NavBar';
+
 
 function App() {
   return (
     <div className="App">
-      mux clone -- checking config for ssh - push test -2 
+      <NavBar />
     </div>
   );
 }
